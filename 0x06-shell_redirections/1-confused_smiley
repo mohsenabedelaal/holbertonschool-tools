@@ -1,2 +1,3 @@
-#!/bin/bash 
-\"\(^Oo\)\'
+#!/bin/bash
+echo -e  \"\("\u0D4"o\)\'
+
